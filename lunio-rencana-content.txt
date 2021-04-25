@@ -1,6 +1,8 @@
 RENACANA KONTEN LUNIO
 
-- Java
+- Javascript
+  * ES6
+  * Framework Javascript
 - PHP Frameworks
 - JSon
 - MySQL
