@@ -2,3 +2,5 @@ Lunio Resolusi
 - Belajar coding 2 jam per hari
 - Membuat platform website
 - Membuat data untuk backend
+- Membuat ecommerce
+- Membuat online shop
