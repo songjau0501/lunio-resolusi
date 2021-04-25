@@ -3,7 +3,11 @@ RENACANA KONTEN LUNIO
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Object Oriented Programming
 - PHP Frameworks
+  ^ Laravel
 - JSon
 - MySQL
+- Python
